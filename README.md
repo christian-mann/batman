@@ -6,9 +6,7 @@ Inspiration
 
 If `pacman` is a package manager, then it stands to reason that `batman` should be a battery manager, right?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=iu92GxXf1X8
-#t=47" target="_blank"><img src="http://img.youtube.com/vi/iu92GxXf1X8/0.jpg" 
-alt="I'M BATMAN" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iu92GxXf1X8#t=47" target="_blank"><img src="http://img.youtube.com/vi/iu92GxXf1X8/0.jpg" alt="I'M BATMAN" width="240" height="180" border="10" /></a>
 
 
 Installation and Running
