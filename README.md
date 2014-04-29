@@ -31,4 +31,4 @@ $ batman
    '-.;         V         ;.-'
 ```
 
-This is a useful application.
+This is a useful application. Pull requests welcome.
