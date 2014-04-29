@@ -1,17 +1,17 @@
 #!/bin/sh
-cat << EOF
+cat << "EOF"
        _,     _   _     ,_
    .-'` /     \'-'/     \ `'-.
   /    |      |   |      |    \
  ;      \_  _/     \_  _/      ;
 |         ``         ``         |
-EOF;
+EOF
 echo -n "|              ";
 acpi | grep '[0-9 ][0-9]%' -o | head -1 | tr -d '\n'
 echo "              |";
-cat << EOF
+cat << "EOF"
 |                               |
  ;    .-.   .-.   .-.   .-.    ;
   \  (   '.'   \ /   '.'   )  /
    '-.;         V         ;.-'
-EOF;
+EOF
